@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMTLibraryAnnotator", "TMTLibraryAnnotator\TMTLibraryAnnotator.csproj", "{3778FC52-CEB3-4286-B1D5-C9C634904142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3778FC52-CEB3-4286-B1D5-C9C634904142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3778FC52-CEB3-4286-B1D5-C9C634904142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3778FC52-CEB3-4286-B1D5-C9C634904142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3778FC52-CEB3-4286-B1D5-C9C634904142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AD506B-DBF9-4D6E-9F94-3C815A52185A}
+	EndGlobalSection
+EndGlobal
